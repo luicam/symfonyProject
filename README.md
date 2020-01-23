@@ -1,5 +1,5 @@
 # symfonyProject
-## Instalamos nuesro proyecto
+## Instalamos el proyecto
 
 `git clone https://github.com/PacoBocanegra/symfonyProject.git`
 
