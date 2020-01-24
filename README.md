@@ -16,7 +16,7 @@ Iniciamos el servidor
 `symfony server:start`
 
 
-tare5
+Carpeta "tarea5"
 
 Archivos realizan: Autentificacion, Registro de usuarios.
 
