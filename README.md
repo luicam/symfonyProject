@@ -14,3 +14,10 @@ Movemos el proyecto al directorio público de apache
 Iniciamos el servidor
 
 `symfony server:start`
+
+tare5
+
+Archivos realizan: Autentificacion, Registro de usuarios.
+
+La BBDD solo contine un usuario resgistrado "dwes" contraseña codificada con md5 "adc123."
+
