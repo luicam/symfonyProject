@@ -15,6 +15,7 @@ Iniciamos el servidor
 
 `symfony server:start`
 
+
 tare5
 
 Archivos realizan: Autentificacion, Registro de usuarios.
